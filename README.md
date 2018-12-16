@@ -8,6 +8,17 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+for design i used material design 
+
+for installation use below command 
+
+#npm install @material-ui/core
+
+for materila icon add below scripts
+#<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+for svg icons run below command
+#npm install @material-ui/icons
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
